@@ -1,5 +1,9 @@
 # HybridAuth 2.1.1-dev
-
+  	
+http://elgg.org/download.php
+http://hybridauth.sourceforge.net/
+remove ';' from extension=php_curl.dll in php.ini
+		
 HybridAuth enables developers to easily build social applications and tools 
 to engage websites vistors and customers on a social level by implementing 
 social sign-in, social sharing, users profiles, friends list, activities 
